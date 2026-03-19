@@ -1,15 +1,8 @@
 Landing **MEGA** — Campeonato Pokemon TCG (Aracati). Next.js.
 
-## Git — ligar ao teu repositório
+## Repositório
 
-O remote antigo foi removido. Usa **o teu** utilizador GitHub:
-
-```bash
-git remote add origin https://github.com/TEU_USUARIO/mega-landing.git
-git push -u origin main
-```
-
-Substitui `TEU_USUARIO` pelo teu username e cria o repositório `mega-landing` vazio no GitHub antes do push.
+<https://github.com/RuanSantos0/mega-landing>
 
 ---
 
