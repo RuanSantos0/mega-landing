@@ -26,6 +26,9 @@ export function Hero() {
           <p className="text-zinc-400 text-sm md:text-base">
             Av. Cel. Alexanzito, 800 - Centro, Aracati - CE
           </p>
+          <p className="text-[#FFCB05]/90 text-sm md:text-base font-medium">
+            Entrada gratuita · Inscrição no campeonato: R$ 10 (evita vagas fantasmas) + lanche para competidores
+          </p>
         </div>
         <div className="flex flex-col sm:flex-row gap-4 flex-wrap justify-center">
           <a

@@ -20,6 +20,14 @@ export function Campeonatos() {
             O evento principal é o <span className="text-[#FFCB05] font-semibold">Campeonato de Pokemon TCG</span> (Trading Card Game). 
             Traz o teu deck construído e compete pelos melhores prémios!
           </p>
+          <div className="p-5 rounded-lg border border-zinc-700 bg-[#1a1a1a] space-y-3 text-base">
+            <p>
+              <span className="text-[#FFCB05] font-semibold">Inscrição no campeonato:</span> R$ 10,00 — apenas para evitar inscrições fantasmas. O evento em si é gratuito.
+            </p>
+            <p>
+              Cada competidor inscrito recebe <span className="text-white font-medium">lanche</span>: refrigerante ou suco + salgado à escolha.
+            </p>
+          </div>
           
           <div className="mt-6">
             <h3 className="text-xl font-bold text-white mb-4">Premiação</h3>

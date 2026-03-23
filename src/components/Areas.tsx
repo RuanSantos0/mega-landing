@@ -19,18 +19,6 @@ const areas = [
   },
   {
     id: 4,
-    nome: "Área Kids",
-    icone: "🎨",
-    descricao: "Pinturas e atividades criativas para os mais pequenos se divertirem.",
-  },
-  {
-    id: 5,
-    nome: "Nintendo Switch",
-    icone: "🎮",
-    descricao: "Zona de jogos com consolas Nintendo Switch e os melhores títulos Pokemon.",
-  },
-  {
-    id: 6,
     nome: "Exibição de Artistas",
     icone: "🖼️",
     descricao: "Exposição de trabalhos de artistas locais inspirados no universo Pokemon.",
@@ -45,9 +33,9 @@ export function Areas() {
           O que vai ter no evento
         </h2>
         <p className="text-zinc-400 mb-12 text-lg">
-          Um dia repleto de atividades para toda a família
+          Um dia repleto de atividades para colecionadores e jogadores
         </p>
-        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+        <div className="grid md:grid-cols-2 gap-6">
           {areas.map((area) => (
             <div
               key={area.id}

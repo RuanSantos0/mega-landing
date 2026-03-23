@@ -13,9 +13,9 @@ const noticias = [
   },
   {
     id: 3,
-    titulo: "Programa completo: kids, Nintendo Switch e artistas",
+    titulo: "Exibição de artistas confirmada",
     data: "12 Mar 2025",
-    resumo: "O evento terá área kids com pinturas, zona Nintendo Switch e exposição de artistas locais.",
+    resumo: "O evento contará com exposição de trabalhos de artistas locais inspirados no universo Pokemon.",
   },
 ];
 

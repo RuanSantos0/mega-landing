@@ -7,10 +7,10 @@ const exo2 = Exo_2({ subsets: ["latin"], variable: "--font-exo" });
 
 export const metadata: Metadata = {
   title: "MEGA - Campeonato Pokemon TCG | Aracati",
-  description: "Campeonato Pokemon TCG, área de trocas, lojas, área kids, Nintendo Switch e muito mais. 18 de Abril em Aracati - CE.",
+  description: "Entrada gratuita. Campeonato Pokemon TCG em Aracati — inscrição R$ 10 para competir (evita fantasmas) + lanche. Trocas, lojas, artistas. 18 de Abril.",
   openGraph: {
-    title: "MEGA - Evento de Gaming e Tecnologia",
-    description: "O maior evento de gaming e tecnologia. Próximo evento: 18 de Abril.",
+    title: "MEGA - Campeonato Pokemon TCG | Aracati",
+    description: "Entrada grátis. Campeonato com inscrição R$ 10 + lanche para competidores. 18 de Abril em Aracati - CE.",
   },
 };
 
