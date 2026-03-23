@@ -30,7 +30,7 @@ export function Hero() {
             Entrada gratuita · Inscrição no campeonato: R$ 10 (evita vagas fantasmas) + lanche para competidores
           </p>
           <p className="text-white text-sm md:text-base font-bold tracking-wide border border-[#FFCB05]/60 rounded px-4 py-2 bg-black/40">
-            Limite de <span className="text-[#FFCB05]">30 vagas</span> no campeonato — garante a tua inscrição
+            Limite de <span className="text-[#FFCB05]">24 vagas</span> no campeonato — garante a tua inscrição
           </p>
         </div>
         <div className="flex flex-col sm:flex-row gap-4 flex-wrap justify-center">

@@ -18,7 +18,7 @@ export function Sobre() {
               O acesso ao espaço do evento é <strong className="text-white">100% grátis</strong> — podes visitar, trocar, conhecer as lojas e acompanhar o ambiente sem pagar nada.
             </p>
             <p>
-              O campeonato tem <strong className="text-[#FFCB05]">limite de 30 vagas</strong> — as inscrições encerram quando o limite for atingido.
+              O campeonato tem <strong className="text-[#FFCB05]">limite de 24 vagas</strong> — as inscrições encerram quando o limite for atingido.
             </p>
             <p>
               Para <strong className="text-white">competir no campeonato</strong>, o formulário de inscrição solicita uma taxa de <strong className="text-[#FFCB05]">R$ 10,00</strong>, com o <strong>único objetivo de evitar inscrições fantasmas</strong> (pessoas que se inscrevem e não comparecem), garantindo vagas a quem realmente vai jogar.
