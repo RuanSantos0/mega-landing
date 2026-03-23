@@ -3,7 +3,7 @@ const noticias = [
     id: 1,
     titulo: "Campeonato Pokemon TCG em Aracati",
     data: "19 Mar 2025",
-    resumo: "O MEGA traz o primeiro campeonato oficial de Pokemon TCG para Aracati. Inscrições em breve!",
+    resumo: "O MEGA traz o primeiro campeonato oficial de Pokemon TCG para Aracati. Apenas 30 vagas — garante a tua inscrição!",
   },
   {
     id: 2,
